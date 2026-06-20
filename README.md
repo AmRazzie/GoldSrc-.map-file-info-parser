@@ -1,1 +1,2 @@
-# GoldSrc-.map-file-info-parser
+# GoldSrc .map file info parser
+This is completely vibecoded info parser mainly for HL1, made it out of complete boredom but it seems to work fine for my personal usage.
