@@ -1,0 +1,1 @@
+# GoldSrc-.map-file-info-parser
