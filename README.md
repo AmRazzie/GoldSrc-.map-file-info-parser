@@ -2,4 +2,5 @@
 This is completely vibecoded info parser mainly for HL1, made it out of complete boredom but it seems to work fine for my personal usage.
 
 ## Usage
-Just run the python script and put decompiled map files into the maps folder.
+Create maps and output folder, and put decompiled .map files into the first one.
+Just run the python script and write the classname you want to get.
